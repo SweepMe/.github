@@ -4,6 +4,8 @@
 :microscope:  Create measurement procedures quickly via drag & drop of device modules in a tree-like sequencer tool.
 👩‍💻 Get open-source drivers for many different devices from the instrument-drivers repository.
 
+🧙 [Go to our Homepage](https://sweep-me.net/)
+
 <!--
 
 **Here are some ideas to get you started:**
